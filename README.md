@@ -62,6 +62,16 @@ In order to ensure that the Laravel community is welcoming to all, please review
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
+git clone
+cd abc
+env.example -> env
+composer install
+php artisan key:generate
+create database
+update env configuration
+php artisan migrate
+php artisan db:seed
+php artisan surve
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # BookStore_CRUD_Operation-Laravel-
